@@ -1,0 +1,15 @@
+div.contents{
+    padding: 5%;
+    border-radius: 10px;
+    background-color: cyan;
+}
+button{
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    width: 10%;
+    height: 30px;
+    min-width: 60px;
+    background-color: limegreen;
+    border-radius: 10px;
+}
