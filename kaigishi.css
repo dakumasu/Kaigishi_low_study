@@ -7,8 +7,8 @@ button{
     margin-top: 1%;
     margin-left: 5%;
     margin-bottom: 1%;
-    width: 10%;
-    height: 30px;
+    width: 100px;
+    height: auto;
     min-width: 60px;
     background-color: limegreen;
     border-radius: 10px;
