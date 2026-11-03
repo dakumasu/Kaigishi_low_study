@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Kaigishi_low_study/sw.js', { scope: '/Kaigishi_low_study/' })})}
